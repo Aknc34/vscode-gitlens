@@ -199,7 +199,12 @@
   resolved "https://registry.yarnpkg.com/@lit/reactive-element/-/reactive-element-1.4.1.tgz#3f587eec5708692135bc9e94cf396130604979f3"
   integrity sha512-qDv4851VFSaBWzpS02cXHclo40jsbAjRXnebNXpm0uVg32kCneZPo9RYVQtrTNICtZ+1wAYHu1ZtxWSWMbKrBw==
 
-"@microsoft/fast-element@1.10.5", "@microsoft/fast-element@^1.10.5", "@microsoft/fast-element@^1.6.2", "@microsoft/fast-element@^1.9.0":
+"@microsoft/fast-element@1.11.0":
+  version "1.11.0"
+  resolved "https://registry.yarnpkg.com/@microsoft/fast-element/-/fast-element-1.11.0.tgz#494f6c87057bcbb42406982d68a92887d6b5acb1"
+  integrity sha512-VKJYMkS5zgzHHb66sY7AFpYv6IfFhXrjQcAyNgi2ivD65My1XOhtjfKez5ELcLFRJfgZNAxvI8kE69apXERTkw==
+
+"@microsoft/fast-element@^1.10.5", "@microsoft/fast-element@^1.6.2", "@microsoft/fast-element@^1.9.0":
   version "1.10.5"
   resolved "https://registry.yarnpkg.com/@microsoft/fast-element/-/fast-element-1.10.5.tgz#0ccedb56bd1fa9d981acb33665d074abb3bf76f5"
   integrity sha512-7aqo60dh+ip+NyReRPRiR8ndb4ZX7An3ms6TNhnrdLUtCon4kOv0GVxJdlVjqsSvrk9nOMN58A6Sg6ertt8hXQ==
