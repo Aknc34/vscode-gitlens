@@ -204,7 +204,12 @@
   resolved "https://registry.yarnpkg.com/@microsoft/fast-element/-/fast-element-1.10.5.tgz#0ccedb56bd1fa9d981acb33665d074abb3bf76f5"
   integrity sha512-7aqo60dh+ip+NyReRPRiR8ndb4ZX7An3ms6TNhnrdLUtCon4kOv0GVxJdlVjqsSvrk9nOMN58A6Sg6ertt8hXQ==
 
-"@microsoft/fast-foundation@^2.38.0", "@microsoft/fast-foundation@^2.41.1", "@microsoft/fast-foundation@^2.46.14":
+"@microsoft/fast-element@^1.11.0":
+  version "1.11.0"
+  resolved "https://registry.yarnpkg.com/@microsoft/fast-element/-/fast-element-1.11.0.tgz#494f6c87057bcbb42406982d68a92887d6b5acb1"
+  integrity sha512-VKJYMkS5zgzHHb66sY7AFpYv6IfFhXrjQcAyNgi2ivD65My1XOhtjfKez5ELcLFRJfgZNAxvI8kE69apXERTkw==
+
+"@microsoft/fast-foundation@^2.38.0", "@microsoft/fast-foundation@^2.41.1":
   version "2.46.14"
   resolved "https://registry.yarnpkg.com/@microsoft/fast-foundation/-/fast-foundation-2.46.14.tgz#75e9b31ba0781f5f437710f1135fa903076d9fb3"
   integrity sha512-r97fidZZ7uMjqg/HPYEY7EofZaPS8mCnQWWuvG9oS0JuE1XeLeYD3eMo/mG1Xn68IZc9kztyzA2sGUrm4piq/Q==
@@ -214,13 +219,23 @@
     tabbable "^5.2.0"
     tslib "^1.13.0"
 
-"@microsoft/fast-react-wrapper@0.3.14":
-  version "0.3.14"
-  resolved "https://registry.yarnpkg.com/@microsoft/fast-react-wrapper/-/fast-react-wrapper-0.3.14.tgz#2288e7fa805e91759cd4e7004eb1044fddcc6563"
-  integrity sha512-X6B+b8SD7vkdhS3/cnEn2ES17G46MH4LwVK298wfLlOsPnI9VzrlUQXbumFk8aNotQWU5sJDZ85Zgf/+Rzlcdg==
+"@microsoft/fast-foundation@^2.47.0":
+  version "2.47.0"
+  resolved "https://registry.yarnpkg.com/@microsoft/fast-foundation/-/fast-foundation-2.47.0.tgz#a4cc8c5277e21d080215f5adcaed4266a8dd8a8e"
+  integrity sha512-EyFuioaZQ9ngjUNRQi8R3dIPPsaNQdUOS+tP0G7b1MJRhXmQWIitBM6IeveQA6ZvXG6H21dqgrfEWlsYrUZ2sw==
   dependencies:
-    "@microsoft/fast-element" "^1.10.5"
-    "@microsoft/fast-foundation" "^2.46.14"
+    "@microsoft/fast-element" "^1.11.0"
+    "@microsoft/fast-web-utilities" "^5.4.1"
+    tabbable "^5.2.0"
+    tslib "^1.13.0"
+
+"@microsoft/fast-react-wrapper@0.3.15":
+  version "0.3.15"
+  resolved "https://registry.yarnpkg.com/@microsoft/fast-react-wrapper/-/fast-react-wrapper-0.3.15.tgz#e2f01af3957a38c25b9d83732999d31820c3a76a"
+  integrity sha512-wMuUXngUltfsLYqesYElCjNefXHkpp4ufrAsIlrSwwT6QUSZmIv/ySxwD2KqxemrE/PEdRr5wEATYe5pKrGQuQ==
+  dependencies:
+    "@microsoft/fast-element" "^1.11.0"
+    "@microsoft/fast-foundation" "^2.47.0"
 
 "@microsoft/fast-react-wrapper@^0.1.18":
   version "0.1.48"
