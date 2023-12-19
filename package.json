@@ -12590,7 +12590,7 @@
 		"@typescript-eslint/eslint-plugin": "5.40.1",
 		"@typescript-eslint/parser": "5.40.1",
 		"@vscode/test-electron": "2.2.0",
-		"@vscode/test-web": "0.0.32",
+		"@vscode/test-web": "0.0.50",
 		"circular-dependency-plugin": "5.2.2",
 		"clean-webpack-plugin": "4.0.0",
 		"concurrently": "7.4.0",
