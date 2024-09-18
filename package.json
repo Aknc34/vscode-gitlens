@@ -12619,7 +12619,7 @@
 		"mini-css-extract-plugin": "2.6.1",
 		"mocha": "10.1.0",
 		"prettier": "2.7.1",
-		"sass": "1.55.0",
+		"sass": "1.79.0",
 		"sass-loader": "13.1.0",
 		"schema-utils": "4.0.0",
 		"svgo": "2.8.0",
