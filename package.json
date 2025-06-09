@@ -12555,7 +12555,7 @@
 		"vscode:prepublish": "yarn run bundle"
 	},
 	"dependencies": {
-		"@gitkraken/gitkraken-components": "1.1.0-rc.1",
+		"@gitkraken/gitkraken-components": "2.0.0",
 		"@microsoft/fast-element": "1.10.5",
 		"@microsoft/fast-react-wrapper": "0.3.14",
 		"@octokit/core": "4.1.0",
@@ -12627,7 +12627,7 @@
 		"ts-loader": "9.4.1",
 		"tsc-alias": "1.7.0",
 		"typescript": "4.8.4",
-		"vsce": "2.12.0",
+		"vsce": "2.15.0",
 		"webpack": "5.74.0",
 		"webpack-bundle-analyzer": "4.6.1",
 		"webpack-cli": "4.10.0",
